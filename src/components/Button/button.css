@@ -1,0 +1,16 @@
+.add{
+    padding: 10px;
+    background-color: #ccc;
+    border: none;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.remove{
+    padding: 5px;
+    background-color: #ccc;
+    border: none;
+    border-radius: 10px;
+    font-size: 12px;
+}
