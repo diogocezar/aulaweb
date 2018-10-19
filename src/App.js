@@ -33,6 +33,7 @@ class App extends Component{
     setTimeout(() => {
       this.setState({
         todos: [
+          'Novo item',
           'Lavar a roupa',
           'Jogar LOL',
           'Estudar para a prova de Web'
